@@ -1,2 +1,2 @@
-# OOP-IN-C-
+# OOP-IN-CPP
 The repo about oop in c++ programs learn in college....
